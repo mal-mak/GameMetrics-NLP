@@ -1,0 +1,7 @@
+steamreviews
+pandas
+nltk
+scikit-learn
+spacy
+textblob
+matplotlib
